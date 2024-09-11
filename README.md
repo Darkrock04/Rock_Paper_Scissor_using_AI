@@ -11,7 +11,7 @@ you can detect hand and fingers and with the help of your fingers co-ordinates y
 paper or scissor sign with the help of this you can play this game with the 
 AI where the AI plays with the player and the scores are given as per who wins the game. you an start the game by pressing ' s ' on the keyboard per time you play.
 
-### `python3.8 recommended you can try other version too`
+### `python3.8.10 recommended you can try other version too`
 
 ```bash
 pip install mediapipe
